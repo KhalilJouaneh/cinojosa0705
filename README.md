@@ -42,7 +42,7 @@
         "MongoDB",
         "Helius SDK",
     ],
-        "DevOps": \[
+    "DevOps": \[
         "Docker",
         "GitHub Actions",
         "Google Cloud",
