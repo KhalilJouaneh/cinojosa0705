@@ -21,6 +21,13 @@
         "Solidity"
         "Python",
     ],
+    "Languages": \[
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "Solidity"
+        "Python",
+    ],
    "Frameworks": \[
         "Express.js",
         "React",
