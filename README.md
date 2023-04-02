@@ -14,16 +14,47 @@
         "User Experience Optimization",
         "Cyber security",
     ],
-    "wokingWith": \[
-        "JS",
-        "TS",
-        "Next.js",
-        "React",
+    "Languages": \[
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "Solidity"
         "Python",
     ],
+   "Frameworks": \[
+        "Express.js",
+        "React",
+        "Next.js",
+        "Anchor-lang"
+        "Svelete kit",
+        "jQuery",
+        "Flask",
+        "Bootstrap",
+        "TailwindCSS",
+    ],
+    
+    "Technologies": \[
+        "Node.js",
+        "SWR",
+        "GraphQL",
+        "Prisma"
+        "Redux",
+        "Zustand",
+        "MongoDB",
+        "Helius SDK",
+       ],
+   "DevOps": \[
+        "Docker",
+        "GitHub Actions",
+        "Google Cloud",
+        "AWS",
+        "Vercel",
+        "Fly",
+   ],
+    
     "Learning": \[
         "Rust",
-        "Anchor-lang",
+        "Move",
         "Core blockchain development",    
     ],
     "want2Learn": \[
