@@ -1,42 +1,37 @@
 
-    "name": "Thales",
+    "name": "Khalil",
+    "Education": "Bachelor of Computer Science (honours)"
+    "University": "Queen's University",
     "interests": \[
+        "Blockchain",
         "Solana",
         "DeFi",
-        "Quant Finance",
         "Derivatives",
-        "Financial Primitives"
+        "Financial Primitives",
+        "Regenartive Finance (ReFi)", 
+        "On-chain Lending",
+        "User Experience Optimization",
+        "Cyber security",
     ],
-    "job": {
-        "position": "DevRel Lead & Grants",
-        "where": "Hxro Labs",
-        "companyDescription": "Contributors to the Hxro Network, a Derivatives Infastructure Protocol on Solana",
-        "what": \[
-        "Improving documentation for our liquidity protocols SDKs.",
-        "Make written and video content on how to build on top of the Hxro Network (also in Spanish)",
-        "Building Open Source projects that utilize the Hxro Networks protocols",
-        "Communicate, engage, and work with Developer Communities",
-        "Manage our Grant & Bounty program so to incentivize and fuel both our Developers and dAPPs Ecosystem (soon)"
-    ],
-    },
     "wokingWith": \[
         "JS",
         "TS",
+        "Next.js",
         "React",
         "Python",
     ],
-    "learning": \[
+    "Learning": \[
         "Rust",
-        "Anchor",
-        "Smart Contract (Programs) Development"
+        "Anchor-lang",
+        "Core blockchain development",    
     ],
     "want2Learn": \[
-        "Solidity",
-        "EVM",
-        "Cosmos"
+        "Solana Virtual Machine",
+        "on-chain orderbooks",
+        "smart contract security",
+        "Quant finance",
     ],
     "contact": {
-        "telegram": "@ThalesOfMiletus",
-        "twitter": "@ThalesHXRO"
+        "LinkedIn": "https://www.linkedin.com/in/khaliljouaneh/",
+        "email": "khalil@carbovalent.com"
     }
-
