@@ -21,14 +21,7 @@
         "Solidity"
         "Python",
     ],
-    "Languages": \[
-        "TypeScript",
-        "JavaScript",
-        "SQL",
-        "Solidity"
-        "Python",
-    ],
-   "Frameworks": \[
+    "Frameworks": \[
         "Express.js",
         "React",
         "Next.js",
@@ -39,7 +32,7 @@
         "Bootstrap",
         "TailwindCSS",
     ],
-    "Technologies": \[
+   "Technologies": \[
         "Node.js",
         "SWR",
         "GraphQL",
