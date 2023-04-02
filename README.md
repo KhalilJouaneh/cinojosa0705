@@ -54,8 +54,6 @@
         "Rust",
         "Move",
         "Core blockchain development",  
-    ],
-    "want2Learn": [
         "Solana Virtual Machine",
         "on-chain orderbooks",
         "smart contract security",
