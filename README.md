@@ -64,4 +64,4 @@
     "contact": [
         "LinkedIn": "https://www.linkedin.com/in/khaliljouaneh/",
         "email": "khalil@carbovalent.com"
-],
+    ],
