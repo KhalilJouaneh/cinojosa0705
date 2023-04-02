@@ -3,7 +3,7 @@
     "Education": "Bachelor of Computer Science (honours)"
     "University": "Queen's University",
     "Specalization": "Software Design", 
-    "interests": \[
+    "interests": [
         "Blockchain",
         "Solana",
         "DeFi",
@@ -14,7 +14,7 @@
         "User Experience Optimization",
         "Cyber security",
     ],
-    "Languages": \[
+    "Languages": [
         "TypeScript",
         "JavaScript",
         "SQL",
