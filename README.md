@@ -32,7 +32,7 @@
         "Bootstrap",
         "TailwindCSS",
     ],
-    "Technologies": \[
+    "Technologies": [
         "Node.js",
         "SWR",
         "GraphQL",
@@ -42,7 +42,7 @@
         "MongoDB",
         "Helius SDK",
     ],
-    "DevOps": \[
+    "DevOps": [
         "Docker",
         "GitHub Actions",
         "Google Cloud",
@@ -50,19 +50,18 @@
         "Vercel",
         "Fly",
     ],
-
-  "Learning": \[
+    "Learning": [
         "Rust",
         "Move",
         "Core blockchain development",  
     ],
-    "want2Learn": \[
+    "want2Learn": [
         "Solana Virtual Machine",
         "on-chain orderbooks",
         "smart contract security",
         "Quant finance",
     ],
-    "contact": {
+    "contact": [
         "LinkedIn": "https://www.linkedin.com/in/khaliljouaneh/",
         "email": "khalil@carbovalent.com"
-    }
+],
