@@ -2,6 +2,7 @@
     "name": "Khalil",
     "Education": "Bachelor of Computer Science (honours)"
     "University": "Queen's University",
+    "Specalization": "Software Design", 
     "interests": \[
         "Blockchain",
         "Solana",
