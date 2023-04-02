@@ -32,7 +32,6 @@
         "Bootstrap",
         "TailwindCSS",
     ],
-    
     "Technologies": \[
         "Node.js",
         "SWR",
@@ -51,7 +50,6 @@
         "Vercel",
         "Fly",
    ],
-    
     "Learning": \[
         "Rust",
         "Move",
