@@ -32,7 +32,7 @@
         "Bootstrap",
         "TailwindCSS",
     ],
-   "Technologies": \[
+    "Technologies": \[
         "Node.js",
         "SWR",
         "GraphQL",
@@ -41,7 +41,7 @@
         "Zustand",
         "MongoDB",
         "Helius SDK",
-       ],
+    ],
    "DevOps": \[
         "Docker",
         "GitHub Actions",
@@ -49,11 +49,11 @@
         "AWS",
         "Vercel",
         "Fly",
-   ],
-    "Learning": \[
+    ],
+  "Learning": \[
         "Rust",
         "Move",
-        "Core blockchain development",    
+        "Core blockchain development",  
     ],
     "want2Learn": \[
         "Solana Virtual Machine",
